@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv('./data/dementia_dataset.csv')
+data = pd.read_csv('./data/test_data.csv')
 
 print(data.head())
 
