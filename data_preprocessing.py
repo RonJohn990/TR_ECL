@@ -1,6 +1,7 @@
 import pandas as pd
 
 data = pd.read_csv('./data/test_data.csv')
+macro_data = pd.read_csv('./data/macro_data.csv')
 
 print(data.head())
 
